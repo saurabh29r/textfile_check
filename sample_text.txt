@@ -1,3 +1,6 @@
 hello rauniyar you are learning git hub
 
 I want to this to commit
+
+Some changes should be made then I will commit this 
+
