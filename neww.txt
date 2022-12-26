@@ -2,3 +2,5 @@ This is how we are learning git so far
 
 I have done this change 
 
+On Date 26/12/2022 , I'm doing some changes to remember old commonds 
+
